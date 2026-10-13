@@ -1,6 +1,6 @@
 # Assignment 4: Dynamic Task Dashboard
 
-A browser-based task dashboard built with vanilla JavaScript, HTML, and CSS.
+A browser-based task dashboard built with vanilla JavaScript, HTML, and CSS..
 
 ## File organization
 
